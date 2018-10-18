@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fresher Fragment</string>
+    <string name="name">Họ và tên</string>
+    <string name="go_to_b">Chuyển đến B</string>
+    <string name="back_a">Quay lại A</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fresher Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="go_to_b">Go to B</string>
+    <string name="back_a">Back A</string>
+    <string name="fragmenta">FragmentA</string>
+</resources>
